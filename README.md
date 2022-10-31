@@ -1,7 +1,7 @@
 Weather App
 
-API: https://openweathermap.org/api/one-call-3
-API_KEY = "2fb6bc7b4ac31f90a3db51dd9757531e";
+API: https://openweathermap.org/api/one-call-3 </br>
+API_KEY = "2fb6bc7b4ac31f90a3db51dd9757531e"; </br>
 
 Make a view that looks/functions like the iOS weather app in a iPhone view or iPad view that includes these widgets:
 https://www.theverge.com/_next/image?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FUGar-YWGacHJuwKbyJIXUqKNDmo%3D%2F0x0%3A2560x1440%2F2000x1333%2Ffilters%3Afocal(1280x720%3A1281x721)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F23610812%2Fwwdc_2022_1480_11_28_31.jpg&w=1200&q=75
@@ -23,6 +23,6 @@ OR...
 5. Style to make things look nice
 
 
-HOW TO RUN THIS APP
--npm install
--npm start
+HOW TO RUN THIS APP </br>
+-npm install </br>
+-npm start </br>
